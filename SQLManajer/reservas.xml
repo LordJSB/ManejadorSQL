@@ -1,0 +1,51 @@
+<reservas>
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<telefono>123456789</telefono>
+<fechaEvento>22/4/2024</fechaEvento>
+<tipo>Banquete</tipo>
+<asistentes>5</asistentes>
+<tipoCocina>bufe</tipoCocina>
+<tipoMesa>redonda</tipoMesa>
+<comensalesMesa>5</comensalesMesa>
+</reserva>
+
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<fechaEvento>20/3/2024</fechaEvento>
+<tipo>Jornada</tipo>
+<asistentes>2</asistentes>
+<tipoCocina>carta</tipoCocina>
+</reserva>
+
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<fechaEvento>23/3/2023</fechaEvento>
+<tipo>Jornada</tipo>
+<asistentes>3</asistentes>
+<tipoCocina>carta</tipoCocina>
+<numeroJornadas>18</numeroJornadas>
+<habitaciones>4</habitaciones>
+<tipoMesa>redonda</tipoMesa>
+<comensalesMesa>5</comensalesMesa>
+</reserva>
+
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<fechaEvento>25/5/2025</fechaEvento>
+<tipo>Congreso</tipo>
+<asistentes>25</asistentes>
+<tipoCocina>pedir cita</tipoCocina>
+<numeroJornadas>18</numeroJornadas>
+<habitaciones>True</habitaciones>
+</reserva>
+
+<reserva>
+<nombre>Cristian Almeida Sintriani</nombre>
+<fechaEvento>21/6/2026</fechaEvento>
+<tipo>Congreso</tipo>
+<asistentes>50</asistentes>
+<tipoCocina>no precisa</tipoCocina>
+<habitaciones>True</habitaciones>
+</reserva>
+</reservas>
